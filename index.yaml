@@ -13,6 +13,16 @@ entries:
     version: 0.1.0
   chart2:
   - apiVersion: v2
+    appVersion: 1.17.0
+    created: "2021-05-13T15:50:52.274873132Z"
+    description: A Helm chart for Kubernetes
+    digest: 86eda0e0db022711097da6c989be6e5b442c9c0a1ff02a6166b9722f355764df
+    name: chart2
+    type: application
+    urls:
+    - https://github.com/vkumbhar94/helm-charts/releases/download/chart2-0.2.0/chart2-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
     appVersion: 1.16.0
     created: "2021-05-13T15:47:04.608896203Z"
     description: A Helm chart for Kubernetes
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/vkumbhar94/helm-charts/releases/download/chart2-0.1.0/chart2-0.1.0.tgz
     version: 0.1.0
-generated: "2021-05-13T15:47:04.608908303Z"
+generated: "2021-05-13T15:50:52.274893932Z"
